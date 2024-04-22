@@ -1,0 +1,121 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+    <!-- домашнее задание v2 - семантическая разметка страницы сайта: -->
+        <meta charset="UTF-8">
+        <title> Modern Web Studio </title>
+        <link rel="stylesheet"  href="Mod.html" type="text/html" >
+    </head>
+    
+    
+    
+    <body>
+    <!-- разбивка на блоки и описание: -->
+    <!-- ссылки !пока! не работают: --> 
+
+    <section> <class="container"> size: 1440x4574>
+        <section> <size: 1440x135>
+            <header <class="main-content-header">
+        
+                <h1> Mod class="(main-content-header)" </h1>
+                <button> Biography </button> 
+                <button> Designers </button> 
+                <button> Testimonials </button> 
+                <button> Strong points </button> 
+            </header>
+        </section>
+    
+    
+        
+        <!-- впаивать в белый квадрат не стал : --> 
+        <!-- размеры перенёс: -->
+        <section> <size: 1440x630>
+            <background: img src="320.jpg" <size: 1440x630> <class="main-content-body-background">
+            <h1> Mod Studio </h1> 
+            <h2> Modern Web Studio </h2> 
+        </section>
+    
+    
+    
+        <section> <size: 1165x840>
+        <!-- картинки не качал : -->    
+            <section> <size: 571x840>
+                <img> <src="321.jpg" alt="photo of Katya Mills" <size: 571x840> <class="main-content-body-left-picture">
+            </section>
+            
+            <section>
+                <h3> Biography</h3>
+                <h2> Katya Mills </h2>
+                <!-- тут не понял, почему h1 меньше чем h2? : -->
+                <h3> Art Director </h3>
+                <h4> Scenography / Styling / Creative Photography / Design </h4>
+                <p>“The more I deal with the work as something that is my own,  as something that is personal, the more successful it is.”</p>
+            </section>
+
+        </section>
+        
+ 
+    
+        <section> <size: 1420x677>
+            <h1> Designers </h1> <class="main-content-header-text">
+            <img src="322.jpg" alt="photo of Jess Wonder">
+            <img src="323.jpg" alt="photo of Kameron Clein">
+            <img src="324.jpg" alt="photo of Louisse Red">
+            <p>
+                <h3>Jess Wonder</h3>
+                <h4>From/ Be more flower</h4>
+                <h4>Skills/ Design Strategy / Marketing</h4>
+            </p>
+            <p>
+                <h3>Kameron Clein</h3>
+                <h4>From/ Be more flower</h4>
+                <h4>Skills/ Design Strategy / Marketing</h4>
+            </p>
+            <p>
+                <h3>Louisse Red</h3>
+                <h4>From/ Be more flower</h4>
+                <h4>Skills/ Design Strategy / Marketing</h4>
+            </p>
+        </section>
+        <section> <size: 1400x760>
+            <h1> Testimonials </h1> <class="main-content-header-text">
+            <img src="325.jpg" alt="photo of cafetery">
+            <h2> Creativity </h2>
+            <h3> href="www.whitepapers.com" </h3>
+            <h2> website www.whitepapers.com" </h2>
+            <h3> href="www.whitepapers.com" </h3>
+            <img src="326.jpg" alt="photo of model">
+            <p> I just really want to do good work and work with some great people, people who challenge me. </p>
+        </section>
+        <section> <size: 1400x760>
+            <h3> Strong points </h3> <class="main-content-header-text">
+            <img src="327.jpg" alt="photo of table with laptop on it">
+            <img src="328.jpg" alt="photo of room"> 
+            <h1> Strengths</h1>
+            <h2> Interiors </h2>
+            <h2> Outdoors </h2>
+            <h2> Portraits </h2>
+            <h2> Styling </h2>
+            <h2> Events </h2>
+            <h2> Architecture </h2>
+            <h2> Design </h2>
+            <h2> Celebrations </h2>
+            <h2> Fashion </h2>
+            <h2> Nature </h2>
+        </section>
+    </section>
+    <footer>
+        <h2> A product of  MOD </h2>
+        <div> +7 921 123-45-67 </div>
+        <div> INFO@MODSTUDIO.COM </div>
+        <div> © 2023 Mod Media. All rights reserved. </div>
+    </footer>
+    </body>
+</html>
+<!-- надо учить теги! (ul/li/...): --> 
+
+
+<!-- i write this line for myself, to see changes : -->
+
+
+<!-- 20.04.2024 -->
